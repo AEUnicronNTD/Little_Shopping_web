@@ -1,12 +1,11 @@
 # 專案名稱
 - 簡易購物網站（練習）
 
-## 預覽
-https://aeunicronntd.github.io/Little_Shopping_web/
-
-
 為購物流程的基礎練習，
 實作商品加入購物車並計算總金額的功能。
+
+## 預覽
+https://aeunicronntd.github.io/Little_Shopping_web/
 
 ##  使用技術
 - HTML
